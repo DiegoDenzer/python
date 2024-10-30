@@ -12,3 +12,7 @@ class InMemoryCategoryRepository:
 
     def get_by_id(self, category_id) -> Category | None:
         return next((category for category in self.categories if category.id == category_id), None)
+    
+    def delete(self, category_id):
+        category = self.get_by_id(category_id)
+        self.categories.remove(category)
