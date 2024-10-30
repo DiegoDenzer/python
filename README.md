@@ -1,6 +1,12 @@
+
+
+
 # 🐍 Projeto de Estudo com Arquitetura DDD em Python
 
 Bem-vindo ao repositório do **Projeto de Estudo com Arquitetura Domain-Driven Design (DDD) usando Python**. Este projeto foi criado para demonstrar e praticar os princípios do DDD utilizando a linguagem Python.
+
+Este README está disponível em outros idiomas:
+- [🇺🇸 English](README.en.md
 
 ![Python Logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
 
