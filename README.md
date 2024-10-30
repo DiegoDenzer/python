@@ -11,8 +11,6 @@ Este repositório contém uma aplicação exemplo que implementa uma arquitetura
 ## 🚀 Tecnologias Utilizadas
 
 - **Python**: Linguagem de programação principal.
-- **Flask**: Framework web usado para a criação da API.
-- **SQLAlchemy**: ORM utilizado para gerenciamento do banco de dados.
 - **pytest**: Ferramenta de testes automatizados.
 
 ## 📂 Estrutura do Projeto
