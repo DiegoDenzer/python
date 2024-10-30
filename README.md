@@ -13,12 +13,6 @@ Este repositório contém uma aplicação exemplo que implementa uma arquitetura
 - **Python**: Linguagem de programação principal.
 - **pytest**: Ferramenta de testes automatizados.
 
-## 📂 Estrutura do Projeto
-
-A estrutura do projeto segue os princípios do DDD, dividindo o código em camadas e módulos bem definidos:
-project/ │ ├── app/ │ ├── init.py │ ├── controllers/ │ ├── models/ │ ├── repositories/ │ ├── services/ │ └── views/ │ ├── tests/ │ ├── init.py │ ├── test_controllers.py │ ├── test_models.py │ └── test_services.py │ ├── migrations/ │ ├── requirements.txt │ └── README.md
-
-
 ## 📝 Instalação
 
 Para configurar o ambiente do projeto, siga os passos abaixo:
