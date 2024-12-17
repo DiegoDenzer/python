@@ -14,6 +14,6 @@ class CategoryViewSet(viewsets.ViewSet):
                 "id": '1',
                 "name": 'category.name',
                 "description": 'category.description',
-                "is_active": 'category.is_active'
+                "is_active": True
             }
         ])
